@@ -7,3 +7,5 @@ This script can convert a list of MAC addresses from a specified format to any o
 
 How it works:
 You need to feed the list of MACs in a .CSV file called "macs". Then, when you run the script, you have to specify the format in which the MACs currently are. Finally, you specify the format you want them to be converted into. 
+
+The end result will then be written in a .CSV file called "mac_output.csv".
